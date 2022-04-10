@@ -50,10 +50,10 @@ rexp() adalah fungsi yang digunakan untuk mensimulasikan sekumpulan bilangan aca
 
 rumus z score `z = (x-μ)/σ`, di mana `x` adalah skor mentah, `μ` adalah rata-rata populasi, dan `σ` adalah standar deviasi populasi.
 
-![alt text](https://github.com/aga17/P1_Probstat_C_5025201007/blob/main/assets/10.png)
+![alt text](https://github.com/aga17/P1_Probstat_C_5025201007/blob/main/assets/10.png) 
 
 Grafik Z-Score Data
 
-![alt text](https://github.com/aga17/P1_Probstat_C_5025201007/blob/main/assets/9.png) 
+![alt text](https://github.com/aga17/P1_Probstat_C_5025201007/blob/main/assets/9.png)  
 
 Histogram Distribusi Normal
